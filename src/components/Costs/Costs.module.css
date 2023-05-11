@@ -1,0 +1,17 @@
+.costs {
+  padding: 1rem;
+  background-color: #aac4d1;
+  margin: 2rem auto;
+  width: 70rem;
+  max-width: 95%;
+}
+
+.font {
+  font-size: 2rem;
+}
+
+@media (max-width: 400px) {
+  .font {
+    font-size: 1rem;
+  }
+}
